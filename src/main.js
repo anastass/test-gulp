@@ -1,0 +1,9 @@
+"use strict";
+exports.__esModule = true;
+var user_1 = require("./user");
+function greeter(person) {
+    return "Hello, " + person;
+}
+console.log(greeter(user_1.user));
+
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4udHN4Il0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7O0FBQUEsK0JBQStCO0FBRS9CLFNBQVMsT0FBTyxDQUFDLE1BQWM7SUFDM0IsT0FBTyxTQUFTLEdBQUcsTUFBTSxDQUFDO0FBQzlCLENBQUM7QUFFRCxPQUFPLENBQUMsR0FBRyxDQUFDLE9BQU8sQ0FBQyxXQUFJLENBQUMsQ0FBQyxDQUFDIiwiZmlsZSI6Im1haW4uanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyB1c2VyIH0gIGZyb20gJy4vdXNlcic7XHJcblxyXG5mdW5jdGlvbiBncmVldGVyKHBlcnNvbjogc3RyaW5nKSB7XHJcbiAgICByZXR1cm4gXCJIZWxsbywgXCIgKyBwZXJzb247XHJcbn1cclxuXHJcbmNvbnNvbGUubG9nKGdyZWV0ZXIodXNlcikpOyJdfQ==
